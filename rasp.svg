@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="370px" height="443px" viewBox="0 0 370 443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Rasp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="93.3653533%" x2="100%" y2="93.3653533%" id="linearGradient-1">
+            <stop stop-color="#DBDBDB" stop-opacity="0.0274569746" offset="0%"></stop>
+            <stop stop-color="#DBDBDB" offset="49.6691645%"></stop>
+            <stop stop-color="#DBDBDB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rasp">
+            <g id="Total-Count" transform="translate(15.000000, 393.000000)">
+                <text id="Total-Text" font-family="ArialMT, Arial" font-size="15" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="107.63208" y="25">Всего 125 рейсов</tspan>
+                </text>
+                <rect id="Border" fill="url(#linearGradient-1)" x="0" y="0" width="340" height="1"></rect>
+            </g>
+            <g id="Row5" transform="translate(15.000000, 339.000000)" font-family="ArialMT, Arial" line-spacing="19" font-weight="normal">
+                <text id="через-54-мин" font-size="13" fill="#9B9B9B">
+                    <tspan x="260.800293" y="30">через 54 мин</tspan>
+                </text>
+                <text id="16:09-—-18:35" font-size="15" fill="#333333">
+                    <tspan x="241.591797" y="15">16:09 — 18:35</tspan>
+                </text>
+                <text id="Голицино-—-Чехов" font-size="15" fill="#0044BB">
+                    <tspan x="0" y="14">Голицино — Чехов</tspan>
+                </text>
+            </g>
+            <g id="Row4" transform="translate(15.000000, 286.000000)" font-family="ArialMT, Arial" line-spacing="19" font-weight="normal">
+                <text id="через-49-мин" font-size="13" fill="#9B9B9B">
+                    <tspan x="260.800293" y="31">через 49 мин</tspan>
+                </text>
+                <text id="16:04-—-16:23" font-size="15" fill="#333333">
+                    <tspan x="241.591797" y="16">16:04 — 16:23</tspan>
+                </text>
+                <text id="Голицино-—-Кунцево" font-size="15" fill="#0044BB">
+                    <tspan x="0" y="14">Голицино — Кунцево</tspan>
+                </text>
+            </g>
+            <g id="Row3" transform="translate(15.000000, 232.000000)" font-family="ArialMT, Arial" line-spacing="19" font-weight="normal">
+                <text id="через-41-мин" font-size="13" fill="#9B9B9B">
+                    <tspan x="260.800293" y="31">через 41 мин</tspan>
+                </text>
+                <text id="15:56-—-16:25" font-size="15" fill="#333333">
+                    <tspan x="241.591797" y="17">15:56 — 16:25</tspan>
+                </text>
+                <text id="Звенигород-—-Москва" font-size="15" fill="#0044BB">
+                    <tspan x="0" y="14">Звенигород — Москва </tspan>
+                    <tspan x="0" y="33">(Белорусский вокзал)</tspan>
+                </text>
+            </g>
+            <g id="Row2" transform="translate(15.000000, 178.000000)" font-family="ArialMT, Arial" line-spacing="19" font-weight="normal">
+                <text id="через-14-мин" font-size="13" fill="#9B9B9B">
+                    <tspan x="260.800293" y="31">через 14 мин</tspan>
+                </text>
+                <text id="15:29-—-15:58" font-size="15" fill="#333333">
+                    <tspan x="241.591797" y="17">15:29 — 15:58</tspan>
+                </text>
+                <text id="Можайск-—-Москва-(Бе-Copy" font-size="15" fill="#0044BB">
+                    <tspan x="0" y="14">Можайск — Москва </tspan>
+                    <tspan x="0" y="33">(Белорусский вокзал)</tspan>
+                </text>
+            </g>
+            <g id="Row1" transform="translate(15.000000, 124.000000)" font-family="ArialMT, Arial" font-weight="normal">
+                <text id="через-5-мин" font-size="13" fill="#9B9B9B">
+                    <tspan x="268.030273" y="33">через 5 мин</tspan>
+                </text>
+                <text id="15:20-—-15:50" font-size="15" fill="#333333">
+                    <tspan x="241.591797" y="18">15:20 — 15:50</tspan>
+                </text>
+                <text id="Можайск-—-Москва-(Бе" font-size="15" line-spacing="19" fill="#0044BB">
+                    <tspan x="0" y="14">Можайск — Москва </tspan>
+                    <tspan x="0" y="33">(Белорусский вокзал)</tspan>
+                </text>
+            </g>
+            <g id="Tabs" transform="translate(15.000000, 87.000000)">
+                <text id="Item4-Text" font-family="ArialMT, Arial" font-size="15" font-weight="normal" line-spacing="19" fill="#0044BB">
+                    <tspan x="273" y="23">все направления</tspan>
+                </text>
+                <rect id="hider" fill="#FFFFFF" x="340" y="2" width="15" height="35"></rect>
+                <text id="Item3-Text" font-family="ArialMT, Arial" font-size="15" font-weight="normal" line-spacing="19" fill="#0044BB">
+                    <tspan x="189" y="23">прибытие</tspan>
+                </text>
+                <text id="Item2-Text" font-family="ArialMT, Arial" font-size="15" font-weight="normal" line-spacing="19" fill="#0044BB">
+                    <tspan x="89" y="23">на Можайск</tspan>
+                </text>
+                <rect id="Border" fill="#D8D8D8" x="0" y="0" width="340" height="2" rx="1"></rect>
+                <g id="Active-Tab">
+                    <text id="Item1-Text" font-family="ArialMT, Arial" font-size="15" font-weight="normal" line-spacing="19" fill="#333333">
+                        <tspan x="0" y="23">на Москву</tspan>
+                    </text>
+                    <rect id="Border" fill="#000000" x="0" y="0" width="72" height="2" rx="1"></rect>
+                </g>
+            </g>
+            <text id="Green-Link" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#007700">
+                <tspan x="15" y="77">rasp.yandex.ru</tspan>
+            </text>
+            <text id="Title" font-family="Arial-BoldMT, Arial" font-size="20" font-weight="bold" line-spacing="24" fill="#0044BB">
+                <tspan x="15" y="29">Расписание электричек</tspan>
+                <tspan x="249.414062" y="29" font-family="ArialMT, Arial" font-weight="normal">: Одинцово</tspan>
+                <tspan x="15" y="53" font-family="ArialMT, Arial" font-weight="normal">(Москва и Московская область)</tspan>
+            </text>
+            <g id="Sizes">
+                <rect id="Rectangle-2-Copy-3" fill="#4990E2" opacity="0.104361007" x="0" y="0" width="15" height="443"></rect>
+                <text id="15-copy" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="3.18359375" y="223">15</tspan>
+                </text>
+                <rect id="Rectangle-2-Copy-4" fill="#4990E2" opacity="0.104361007" x="355" y="0" width="15" height="443"></rect>
+                <text id="15-copy-2" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="358.183594" y="223">15</tspan>
+                </text>
+                <rect id="Rectangle-2" fill="#4990E2" opacity="0.104361007" x="0" y="0" width="370" height="10"></rect>
+                <text id="10" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="180.183594" y="8">10</tspan>
+                </text>
+                <rect id="Rectangle-2-Copy" fill="#4990E2" opacity="0.104361007" x="0" y="433" width="370" height="10"></rect>
+                <text id="10-copy" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="180.183594" y="441">10</tspan>
+                </text>
+                <path d="M300,432 L300,431.852941 L300,395.147059 L300,395 L299.5,395 L299,395 L299,394 L299.5,394 L301.5,394 L302,394 L302,395 L301.5,395 L301,395 L301,395.147059 L301,431.852941 L301,432 L301.5,432 L302,432 L302,433 L301.5,433 L299.5,433 L299,433 L299,432 L299.5,432 L300,432 Z" id="Combined-Shape-Copy-5" fill="#D0011B"></path>
+                <text id="40" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="303.683594" y="416">40</tspan>
+                </text>
+                <path d="M96.5,105.5 L96.5,89.5 L97,89.5 L97.5,89.5 L97.5,88.5 L97,88.5 L95,88.5 L94.5,88.5 L94.5,89.5 L95,89.5 L95.5,89.5 L95.5,105.5 L95,105.5 L94.5,105.5 L94.5,106.5 L95,106.5 L97,106.5 L97.5,106.5 L97.5,105.5 L97,105.5 L96.5,105.5 Z" id="Combined-Shape-Copy-3" fill="#D0011B" transform="translate(96.000000, 97.500000) rotate(90.000000) translate(-96.000000, -97.500000) "></path>
+                <text id="18" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="91.6835938" y="109">18</tspan>
+                </text>
+                <path d="M189,124 L189,123.941176 L189,90.0588235 L189,90 L188.5,90 L188,90 L188,89 L188.5,89 L190.5,89 L191,89 L191,90 L190.5,90 L190,90 L190,90.0588235 L190,123.941176 L190,124 L190.5,124 L191,124 L191,125 L190.5,125 L188.5,125 L188,125 L188,124 L188.5,124 L189,124 Z" id="Combined-Shape-Copy" fill="#D0011B"></path>
+                <text id="36" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="193.183594" y="110">36</tspan>
+                </text>
+                <path d="M190,392 L190,379 L190.5,379 L191,379 L191,378 L190.5,378 L188.5,378 L188,378 L188,379 L188.5,379 L189,379 L189,392 L188.5,392 L188,392 L188,393 L188.5,393 L190.5,393 L191,393 L191,392 L190.5,392 L190,392 Z" id="Combined-Shape-Copy-4" fill="#D0011B"></path>
+                <text id="15" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="194.183594" y="389">15</tspan>
+                </text>
+                <path d="M190,181 L190,164 L190.5,164 L191,164 L191,163 L190.5,163 L188.5,163 L188,163 L188,164 L188.5,164 L189,164 L189,181 L188.5,181 L188,181 L188,182 L188.5,182 L190.5,182 L191,182 L191,181 L190.5,181 L190,181 Z" id="Combined-Shape-Copy-2" fill="#D0011B"></path>
+                <text id="19" font-family="Menlo-Regular, Menlo" font-size="8" font-weight="normal" fill="#D0011B">
+                    <tspan x="194.183594" y="175">19</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
