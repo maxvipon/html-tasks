@@ -52,5 +52,7 @@ play
 - отступ от краев `5px`
 
 ```xml
-<svg width="6" height="10" viewBox="0 0 6 10" xmlns="http://www.w3.org/2000/svg"><path d="M0 0v10l6-5z" fill="#333" fill-rule="evenodd"/></svg>
+<svg width="6" height="10" viewBox="0 0 6 10" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0v10l6-5z" fill="#333" fill-rule="evenodd"/>
+</svg>
 ```
