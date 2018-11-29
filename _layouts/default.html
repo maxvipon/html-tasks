@@ -9,14 +9,36 @@
   <!--[if lt IE 9]>
   <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
   <![endif]-->
+  <style>
+    @media screen and (min-width: 64em) {
+      .wrapper {
+        max-width: 64rem;
+        padding: 2rem 6rem;
+        margin: 0 auto;
+        font-size: 1.1rem;
+      }
+    }
+
+    @media screen and (min-width: 42em) and (max-width: 64em) {
+      .wrapper {
+        padding: 2rem 4rem;
+        font-size: 1.1rem;
+      }
+    }
+
+    @media screen and (max-width: 42em) {
+      .wrapper {
+        padding: 2rem 1rem;
+        font-size: 1rem;
+      }
+    }
+  </style>
 </head>
 <body>
   <div class="wrapper">
-    <div class="main-content">
 
       {{ content }}
 
-    </div>
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   {% if site.google_analytics %}
